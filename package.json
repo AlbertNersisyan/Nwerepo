@@ -1,0 +1,23 @@
+{
+  "name": "nwerepo",
+  "version": "1.0.0",
+  "description": "for leson",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ties/app.js",
+    "dev": "nodemon ties/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertNersisyan/Nwerepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertNersisyan/Nwerepo/issues"
+  },
+  "homepage": "https://github.com/AlbertNersisyan/Nwerepo#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
